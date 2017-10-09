@@ -62,8 +62,8 @@ a {
 .hero-image {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: -webkit-linear-gradient(270deg, rgba(56, 79, 105, .85), rgba(56, 79, 105, .85)), url("https://daks2k3a4ib2z.cloudfront.net/59b2ed8c43f6b900014e910f/59c032fe907898000102aa86_keys.png");
-  background-image: linear-gradient(180deg, rgba(56, 79, 105, .85), rgba(56, 79, 105, .85)), url("https://daks2k3a4ib2z.cloudfront.net/59b2ed8c43f6b900014e910f/59c032fe907898000102aa86_keys.png");
+  background-image: -webkit-linear-gradient(270deg, rgba(56, 79, 105, .85), rgba(56, 79, 105, .85)), url("../images/keys.png");
+  background-image: linear-gradient(180deg, rgba(56, 79, 105, .85), rgba(56, 79, 105, .85)), url("../images/keys.png");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
   text-align: center;
